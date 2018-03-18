@@ -14,7 +14,7 @@
 class text {
     //put your code here
     public function a(){
-        echo 1;
+        echo 123;
     }
 }
 
